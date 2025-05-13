@@ -47,9 +47,13 @@ python translator_bot.py
 Sample interaction:
 
 Welcome to the LangChain Translator Bot!
+
 Enter a word to translate: hello
+
 Translate to which language?: French
+
 Translation: bonjour
+
 🧠 Example Languages
 French
 German

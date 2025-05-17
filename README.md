@@ -17,10 +17,11 @@ This is a simple and interactive command-line translator built using:
 ---
 ## 📁 Project Structure
 
+
 langchain_translator_bot/
-    translator_bot.py # Main Python script
-    .env # Stores your OpenAI API key
-    requirements.txt # Python dependencies
+   |____ translator_bot.py # Main Python script
+   |____.env 
+   |____ requirements.txt 
 
 
 1. Create a Virtual Environment (optional)
